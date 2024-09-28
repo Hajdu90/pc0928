@@ -1,11 +1,4 @@
-#import masodik
-#import negyedik
-#import negyedik
-#import hatos
-import tizenhatos
+import elso
 
-# print ("szia")
-#negyedik.negyedikFeladat()
-#hatos.hatosfeladat()
-tizenhatos.tizenhatodikFeladat()
-
+#elso.elso()
+elso.masodik()
